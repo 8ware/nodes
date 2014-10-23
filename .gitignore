@@ -9,3 +9,8 @@
 .sw?
 .*.sw?
 
+#
+# eclipse
+#
+target/
+
